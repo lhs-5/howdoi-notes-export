@@ -1,0 +1,9 @@
+name: howdoi_notes_export
+description: Pure Dart Google Maps URL rules and Markdown roadbook export for HowDoI.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.8
